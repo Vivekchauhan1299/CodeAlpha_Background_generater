@@ -1,8 +1,11 @@
+// Universal Selector 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+// body selector
 body{
     transition: .5s;
 }
@@ -13,6 +16,8 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+// container selector 
 .container {
     width: 30rem;
     height: 9rem;
